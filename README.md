@@ -34,5 +34,5 @@ Tech stack
 <li><strong>Backend:</strong> Node.js, NestJS, Fastify, Express.js</li>
 <li><strong>Data:</strong> PostgreSQL, MongoDB, Redis</li>
 <li><strong>Engineering:</strong> REST APIs, GraphQL, CI/CD, system design</li>
-<li><strong>Currently learning:</strong> Kotlin</li>
+<li><strong>Currently learning:</strong> Kotlin, Spring boot</li>
 </ul>
