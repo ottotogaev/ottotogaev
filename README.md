@@ -14,28 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi, I'm Otamurod Togaev 👋</h1>
-<p align="center">
-Software Engineer · Backend Engineering · System Design · AI Engineering
-</p>
-<p align="center">
-<a href="https://github.com/ottotogaev">GitHub</a>
-</p>
+<div align="center">
+<h1>Hi, I'm Otamurod Togaev 👋</h1>
+<p>Software Engineer · Backend Engineering · System Design · AI Engineering</p>
+<p><a href="https://github.com/ottotogaev">GitHub profile</a></p>
+</div>
 About me
-I'm a software engineer focused on building reliable backend systems. I work with Node.js, TypeScript, NestJS, Fastify, and PostgreSQL, with an interest in architecture, performance, and practical AI applications.
-⚡ Fastify: Building efficient APIs with high-load requirements in mind.
-🏗️ NestJS: Developing structured backend services for complex, enterprise-scale applications.
-🔄 CI/CD: Automating builds, tests, and deployments to make releases more dependable.
-🤖 AI engineering: Exploring how AI can solve real product and engineering problems.
-🧩 System design: Designing services, data flows, and database structures that can grow with the product.
-📚 Always learning and improving how I build software.
+I'm a software engineer focused on building reliable backend systems. I work with Node.js, TypeScript, NestJS, Fastify, and PostgreSQL. I'm interested in architecture, performance, and practical AI applications.
+<ul>
+<li>⚡ <strong>Fastify:</strong> Efficient APIs built with high traffic in mind.</li>
+<li>🏗️ <strong>NestJS:</strong> Structured backend services for complex applications.</li>
+<li>🔄 <strong>CI/CD:</strong> Automated builds, tests, and deployments.</li>
+<li>🤖 <strong>AI engineering:</strong> Applying AI to real product and engineering problems.</li>
+<li>🧩 <strong>System design:</strong> Service architecture, data flows, and database design.</li>
+</ul>
 Tech stack
-Languages: TypeScript, JavaScript, SQL, Kotlin
-Backend: Node.js, NestJS, Fastify, Express.js, Spring Boot (Kotlin)
-Data: PostgreSQL, MongoDB, Redis
-Engineering: REST APIs, GraphQL, CI/CD, System design
-GitHub stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ottotogaev&show_icons=true&theme=algolia" alt="Otamurod's GitHub stats" />
-</p>
+<ul>
+<li><strong>Languages:</strong> TypeScript, JavaScript, SQL</li>
+<li><strong>Backend:</strong> Node.js, NestJS, Fastify, Express.js</li>
+<li><strong>Data:</strong> PostgreSQL, MongoDB, Redis</li>
+<li><strong>Engineering:</strong> REST APIs, GraphQL, CI/CD, system design</li>
+<li><strong>Currently learning:</strong> Kotlin</li>
+</ul>
